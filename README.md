@@ -14,14 +14,4 @@ Contact me if:
 - If someone used something I made to make you miserable.
 - If you just want to hang out, contact me, I live in a small server cabinet devoid of both sun and moon light and have not spoken to another human in many epochs.
 
-but please don't bother if:
-- You want my help in a vengeful political campaign.
-- You are an "idea guy" and you just need a "do everything else for you" guy.
-- You've had a problem with a product I made. Please do contact me, just not through this e-mail. Use the dedicated support e-mail for the product.
-- Another user with the name "Jarlold" has annoyed you on Twitter, Facebook, or Discord. Jarlold is a common username, I don't use Twitter or Facebook.
-
-tl;dr
-- 👋 Hi, I’m @jarlold
-- 👀 I’m interested in ... using learning for evil
-- 🌱 I’m currently learning ... (modern) non-differentiable regression methods
-- 💞️ I’m looking to collaborate on ... machine learning research projects 
+email: nvm 2 many bots on github no email 4 u
