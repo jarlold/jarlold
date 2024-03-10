@@ -9,7 +9,7 @@ preach the good word of FOSS.
 
 Contact me if:
 - If you have a cool whitepaper you want someone to proof read.
-- If you have troubles implementing a paper I was part of.
+- If you have troubles implementing a project I was part of.
 - If you need another engineer/researcher for a paper.
 - If someone used something I made to make you miserable.
 - If you just want to hang out, contact me, I live in a small server cabinet devoid of both sun and moon light and have not spoken to another human in many epochs.
